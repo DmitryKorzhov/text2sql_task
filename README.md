@@ -14,7 +14,7 @@ Your task is to make a Text2SQL App that will generate, execute SQL and give ans
 5. Top 5 marketing campaigns by conversions;
 6. Make cross-channel normalization for facebook, bing, google_ads_ql and linkedin_ads tables with the same granularity (account_id, campaign_id, adset_id, ad_id) with basic performance metrics (clicks, impressions, spend, revenue, engagements, purchase).
 
-## Where to start: 
+## Where to start
 Look at the code we have;
 Create a test ClickHouseDB (important to use exactly ClickHouseDB);
 Make a test Database locally or in any cloud. 
@@ -22,10 +22,9 @@ Fill DB with dummy data;
 Make an application that will generate SQL and execute it;
 Ask all the questions above to the application. 
 
-## Desirable output: 
+## Desirable output
 Statistics of correct answers to questions from the application and your approach to this task.
 
-## Useful documents to check about LLMs and Text2SQL before you start: 
-
+## Useful documents to check about LLMs and Text2SQL before you start
 - https://docs.langchain.com/docs/
 - https://gpt-index.readthedocs.io/
