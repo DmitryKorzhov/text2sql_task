@@ -1,4 +1,4 @@
-# Task for Text2SQL. 
+# Task for Text2SQL
 The goal of the project is to generate and execute SQL using natural language. 
 
 Our current project which works quite good:
